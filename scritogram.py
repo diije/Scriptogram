@@ -11,7 +11,7 @@ class ScriptogramCommand(sublime_plugin.TextCommand):
 		self.view.insert(
 			edit,
 			self.view.sel()[0].begin(),
-			"---\nTitle: My blog post\nDate: "
+			"Title: My blog post\nDate: "
 			)
 		self.view.insert(
 			edit,
@@ -21,6 +21,6 @@ class ScriptogramCommand(sublime_plugin.TextCommand):
 		self.view.insert(
 			edit,
 			self.view.sel()[0].begin(),
-			"\n---"
+			"\nTags: \n\n"
 			)
 
