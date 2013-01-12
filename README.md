@@ -29,6 +29,7 @@ Features
 ---------
 Were listed in the description.  It really only does one simple thing.
 
-Planned Features
------------------
-*Some sort of open save box with preformatted save file name(similar to website) and in correct dropbox location (not sure if last part is possible).
+Further info about Scriptogr.am
+-------------------------------
+
+For further information about the blogging platform, and how to set up your blog, please visit [this link](http://www.diije.fr/scriptogram-sublime-ifttt-mise-en-place-et-diffusion/) (in French).
