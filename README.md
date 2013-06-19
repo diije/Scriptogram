@@ -33,3 +33,7 @@ Further info about Scriptogr.am
 -------------------------------
 
 For further information about the blogging platform, and how to set up your blog, please visit [this link](http://www.diije.fr/scriptogram-sublime-ifttt-mise-en-place-et-diffusion/) (in French).
+
+# Licence
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.fr"><img alt="Licence Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.fr">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 3.0 non transposé</a>.
