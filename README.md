@@ -35,7 +35,7 @@ This package is fully compatible with Sublime Text 3 requirements.
 However, you'll need to install it via git, as Package Control won't work:  
 
 <pre>cd Packages/  
-  git clone https://github.com/diije/Scriptogram  
+git clone https://github.com/diije/Scriptogram  
 </pre>  
 
 Then restart Sublime Text ;)  
