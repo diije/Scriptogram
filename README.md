@@ -1,4 +1,4 @@
-Scriptogram Sublime Text 2
+Scriptogram for Sublime Text
 ================================
 Description
 ------------
@@ -8,6 +8,8 @@ Date: 2012-12-25 09:30
 Tags: 
 
 </pre>  
+
+This package is __compatible with Sublime Text 3__. See [ST3 Installation](#st3) for further info.  
 
 Usage  
 -------
@@ -24,6 +26,18 @@ cd Scriptogram
 git clone git://github.com/diije/Scriptogram.git
 </pre>
 When you launch Sublime Text 2, it will reload the packages in the packages folder.  
+
+<a name="st3" />
+ST3 Installation
+----------------
+
+This package is fully compatible with Sublime Text 3 requirements.  
+However, you'll need to install it via git, as Package Control won't work:  
+
+  cd Packages/
+  git clone https://github.com/diije/Scriptogram
+  
+Then restart Sublime Text ;)  
 
 Features
 ---------
